@@ -1,6 +1,6 @@
-# PolygonME - PGP extension
+# MEGO (Previously PolygonME) - PGP extension
 
-This is an example on how to use PolygonME in other contracts, PolygonME is a composable identity provider based on NFT and fully on-chain.
+This is an example on how to use MEGO in other contracts, MEGO is a composable identity provider based on NFT and fully on-chain.
 In this case we're extending it with PGP, so we'll be able to add and retrieve PGP public keys, for a given name. 
 This can be very useful if we want to create a private messaging dapp or enhanced decentralized e-mail systems.
 
